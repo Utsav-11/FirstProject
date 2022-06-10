@@ -1,0 +1,295 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+.main-section{
+    background-color: #FE7E69;
+    height: 100vh;
+}
+.container-nav{
+    align-items: baseline;
+}
+
+
+.logo {
+  text-decoration: none;
+  font-size: 1.4em ;
+  color:white;
+  font-weight: bold;
+  letter-spacing: 0.4px;   
+}
+.logo:hover{
+    color: maroon;
+}
+
+
+
+.links-main{
+    padding: 0em 8em;
+}
+.nav-item:hover{
+    color: maroon;
+}
+.login1{
+    padding: 5px 20px;
+    border-radius: 10px;
+    text-align: right;
+    color: #FE7E69;
+    background-color: white;
+    margin-left: 10em;
+ border: none;
+}
+.login1:hover{
+   color: maroon;
+   
+}
+
+
+.links{
+    font-size: smaller;
+    font-weight: 400;
+    text-decoration:none;
+    color: white;
+    list-style: none;
+}
+.link:hover{color: maroon;}
+
+.camps1{
+    font-size: medium;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+.creative{
+    font-weight: bolder;
+    color: white;
+    letter-spacing: 0.3px;
+}
+
+.learndef{
+    font-size: small;
+    font-weight: 500;
+    color: white;
+}
+.loginbutton1{
+    padding: 8px 15px;
+    border-radius: 6px;
+    color: #FE7E69;
+    border: none;
+}
+.loginbutton1:hover{
+   color: maroon;
+}
+.border-2{
+    height: 4px;
+    width: 4em;
+    background-color: #FE7E69;
+}
+.border-3{
+    height: 4px;
+    width: 4em;
+    background-color: #6FCAC9;
+}
+.border-4{
+    height: 4px;
+    width: 4em;
+    background-color: #6FCAC9;
+}
+.border-5{
+    height: 4px;
+    width: 4em;
+    background-color: #FF9655;
+}
+.para{
+    font-size: normal;
+    font-weight: 400;
+    color: #C1C2C6;
+    padding-right: 4em;
+    text-align: left;
+}
+
+.heading{
+    font-weight: bold;
+}
+
+.border1{
+    border-top: 5px solid #FE9294;
+    margin-top: 4px;
+
+}
+.moreabout{
+    padding:10em;
+}
+.medias
+{
+    padding: 10em;
+
+}
+.business{
+    font-weight: bolder;
+   
+    
+}
+.text2{
+    padding-left: 8em;
+    padding-right: 8em;
+}
+.learn{
+    font-size: medium;
+    font-weight: 300;
+    color: #C1C2C6;
+    padding-right: 6em;
+}
+.seemoreinfo{
+    text-decoration: none;
+    color: #FE9294;
+
+}
+.seemoreinfo:hover{
+color: #FF6058;
+cursor: pointer;
+}
+.arrow{
+    margin-left: 10px;
+}
+
+.header3
+{
+    font-weight: bold;
+}
+.header-border{
+    height: 4px;
+    width: 3em;
+    background-color: #FE9294;
+}
+.buttonarrow1{
+    padding: 30px 30px;
+    border-radius: 10px;
+    background-color: #FF6058;
+    color: white;
+    border: none;
+}
+.buttonarrow1:hover{
+    background-color: white;
+    color: #FF6058;
+}
+.buttonarrow2{
+    padding: 30px 30px;
+    border-radius: 10px;
+    background-color: white;
+    color: #FF6058;
+    border: none;
+}
+.buttonarrow2:hover{
+    background-color: #FF6058;
+    color: white;  
+}
+.box{
+    padding: 2em;
+}
+.insight{
+    font-weight: bold;
+}
+.count{
+    color: #FE9294;
+}
+.dash{
+    width: 3em;
+    height: 5px;
+    background-color: #FE7E69;
+   
+}
+.choose{
+    font-weight: bolder;
+    font-size: xx-large;
+   
+
+}
+.icon-choose{
+    height: 4em;
+    width: 4em;
+    color: #F27877;
+}
+.dollar-choose{
+    color: #F27877;
+}
+.dash-say
+{
+    height: 4px;
+    width: 3em;
+    background-color: #FE7E69;
+}
+.text-say{
+    color: #C1C2C6;
+}
+.dash-say-after{
+    height: 4px;
+    width: 3em;
+    background-color: #FE7E69;  
+}
+.links-quick{
+    text-decoration: none;
+    color: #C1C2C6;
+    font-size: small;
+}
+.links-quick:hover{
+color: maroon;
+}
+.nav-1 {
+  text-decoration: none;
+}
+
+
+.creative-digital{
+    background-color: #F27877;
+    padding: 30px;
+}
+.head-creative{
+    color:white;
+}
+.para-creative{
+    color: white;
+}
+.btn-creative{
+    color:#F27877;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: medium;
+    font-weight:500;
+    background-color: white;
+}
+.btn-creative:hover{
+    color: maroon;
+}
+.links-sec{
+    padding: 30px;
+   
+}
+.wrapper{
+    background-color: #F7FAFD;
+    opacity: 0.7;
+}
+
+.text {
+  color: red;
+  font-size: bolder;
+}
+.contact-no {
+  color: red;
+  font: 100;
+}
+
+.footer {
+  font-weight: bold;
+  text-align: center;
+}
+.card1{
+    padding-bottom: 10px;
+}
+.learn-choose{
+    color: #C1C2C6;
+}
